@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ywwM1iDGEU=",
+  "dgSpecHash": "OILT1rWAVMw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\FinalEF.csproj",
+  "projectFilePath": "E:\\DatabaseCSharp\\FinalEF\\FinalEF\\FinalEF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\neilm\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\neilm\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

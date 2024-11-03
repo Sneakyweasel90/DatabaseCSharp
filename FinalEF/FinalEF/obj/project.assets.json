@@ -4243,11 +4243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\FinalEF.csproj",
+      "projectUniqueName": "E:\\DatabaseCSharp\\FinalEF\\FinalEF\\FinalEF.csproj",
       "projectName": "FinalEF",
-      "projectPath": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\FinalEF.csproj",
+      "projectPath": "E:\\DatabaseCSharp\\FinalEF\\FinalEF\\FinalEF.csproj",
       "packagesPath": "C:\\Users\\neilm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\obj\\",
+      "outputPath": "E:\\DatabaseCSharp\\FinalEF\\FinalEF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\neilm\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FinalEF
-build_property.ProjectDir = C:\Users\neilm\OneDrive - NBCC\School Things\Term 3\Database Programming\FinalEF\FinalEF\FinalEF\
+build_property.ProjectDir = E:\DatabaseCSharp\FinalEF\FinalEF\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
