@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|c:\\users\\neilm\\onedrive - nbcc\\school things\\term 3\\database programming\\finalef\\finalef\\finalef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|solutionrelative:finalef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\finalef\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|solutionrelative:finalef\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|c:\\users\\neilm\\onedrive - nbcc\\school things\\term 3\\database programming\\finalef\\finalef\\finalef\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|solutionrelative:finalef\\frmadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|c:\\users\\neilm\\onedrive - nbcc\\school things\\term 3\\database programming\\finalef\\finalef\\finalef\\models\\datalayer\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|solutionrelative:finalef\\models\\datalayer\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|c:\\users\\neilm\\onedrive - nbcc\\school things\\term 3\\database programming\\finalef\\finalef\\finalef\\models\\datalayer\\invoicelineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|solutionrelative:finalef\\models\\datalayer\\invoicelineitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|c:\\users\\neilm\\onedrive - nbcc\\school things\\term 3\\database programming\\finalef\\finalef\\finalef\\models\\datalayer\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|solutionrelative:finalef\\models\\datalayer\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|c:\\users\\neilm\\onedrive - nbcc\\school things\\term 3\\database programming\\finalef\\finalef\\finalef\\models\\datalayer\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|solutionrelative:finalef\\models\\datalayer\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|c:\\users\\neilm\\onedrive - nbcc\\school things\\term 3\\database programming\\finalef\\finalef\\finalef\\models\\datalayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|solutionrelative:finalef\\models\\datalayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|c:\\users\\neilm\\onedrive - nbcc\\school things\\term 3\\database programming\\finalef\\finalef\\finalef\\models\\datalayer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|solutionrelative:finalef\\models\\datalayer\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\finalef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{33399AAC-AB71-43B5-B1C3-2DBAC0E3F6D9}|FinalEF\\FinalEF.csproj|solutionrelative:finalef\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\Customer.cs",
+              "RelativeDocumentMoniker": "FinalEF\\models\\datalayer\\Customer.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\Customer.cs",
+              "RelativeToolTip": "FinalEF\\models\\datalayer\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:55:40.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\Product.cs",
+              "RelativeDocumentMoniker": "FinalEF\\models\\datalayer\\Product.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\Product.cs",
+              "RelativeToolTip": "FinalEF\\models\\datalayer\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:55:38.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsContext.cs",
+              "DocumentMoniker": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\ProductsContext.cs",
+              "RelativeDocumentMoniker": "FinalEF\\models\\datalayer\\ProductsContext.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\ProductsContext.cs",
+              "RelativeToolTip": "FinalEF\\models\\datalayer\\ProductsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:55:37.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\State.cs",
+              "RelativeDocumentMoniker": "FinalEF\\models\\datalayer\\State.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\State.cs",
+              "RelativeToolTip": "FinalEF\\models\\datalayer\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:55:35.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceLineItem.cs",
+              "DocumentMoniker": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\InvoiceLineItem.cs",
+              "RelativeDocumentMoniker": "FinalEF\\models\\datalayer\\InvoiceLineItem.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\InvoiceLineItem.cs",
+              "RelativeToolTip": "FinalEF\\models\\datalayer\\InvoiceLineItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:54:56.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\Invoice.cs",
+              "RelativeDocumentMoniker": "FinalEF\\models\\datalayer\\Invoice.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\models\\datalayer\\Invoice.cs",
+              "RelativeToolTip": "FinalEF\\models\\datalayer\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:54:54.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAdd.cs",
+              "DocumentMoniker": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\FrmAdd.cs",
+              "RelativeDocumentMoniker": "FinalEF\\FrmAdd.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\FrmAdd.cs",
+              "RelativeToolTip": "FinalEF\\FrmAdd.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwEAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T13:12:45.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAdd.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\FrmAdd.cs",
+              "RelativeDocumentMoniker": "FinalEF\\FrmAdd.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\FrmAdd.cs [Design]",
+              "RelativeToolTip": "FinalEF\\FrmAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:32:47.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalEF\\Form1.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\Form1.cs",
+              "RelativeToolTip": "FinalEF\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:36:37.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalEF\\Form1.cs",
+              "ToolTip": "C:\\Users\\neilm\\OneDrive - NBCC\\School Things\\Term 3\\Database Programming\\FinalEF\\FinalEF\\FinalEF\\Form1.cs [Design]",
+              "RelativeToolTip": "FinalEF\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:17:33.141Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
